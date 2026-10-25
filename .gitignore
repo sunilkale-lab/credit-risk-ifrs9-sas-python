@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+models/
+
+# Generated results
+output/
+sasdata/
+*.sas7bdat
+*.sas7bitm
+*.log
+
+# Secrets and system files - never commit these
+.env
+*.pem
+.DS_Store
+Thumbs.db
