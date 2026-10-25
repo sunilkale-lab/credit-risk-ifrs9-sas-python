@@ -100,6 +100,6 @@ calibration metrics, technical documentation.
 
 ## Author
 
-Your Name - [LinkedIn](https://www.linkedin.com/in/your-profile) - your.email@example.com
+Your Name - [LinkedIn](https://www.linkedin.com/in/sunil-kale-2688b2195) - kaless1993@gmail.com
 
 Licensed under the MIT License.
